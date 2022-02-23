@@ -40,3 +40,32 @@ html, body {
   text-decoration: none;
   color: white;
 }
+
+#rodape {
+  background-color: black;
+  box-shadow: 1px 2px 5px rgba(0,0,0,0.5);
+  position: relative;
+  width: 100%;
+  height: 5%;
+}
+
+#followus {
+  width: 300px;
+  height: 100%;
+  float: right;
+} 
+
+#followus table {
+  color: white;
+  margin: 0 auto;
+  margin-right: 2px;
+  height: 100%;
+}
+
+#followus a {
+  color: white;
+}
+
+#followus table td {
+  padding-right: 10px;
+}
